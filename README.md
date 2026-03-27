@@ -28,7 +28,7 @@
 ---
 
 ## Descripción
-Este proyecto tiene como finalidad analizar el rendimiento deportivo de la selección de fútbol de la Universidad de los Andes.
+Este proyecto tiene como finalidad **analizar el rendimiento deportivo** de la selección de fútbol de la Universidad de los Andes.
 
 A partir de datos de partidos y entrenamientos, se busca evaluar el rendimiento de los jugadores tomando en cuenta distintos factores como los resultados, la carga física y la participación en el juego. Además, el análisis permite identificar distintas situaciones como sobreentrenamiento, riesgo de lesiones o bajo rendimiento.
 
