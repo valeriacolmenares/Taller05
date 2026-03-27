@@ -55,7 +55,7 @@ El proyecto utiliza una serie de datos que representan el rendimiento de los jug
 - Información sobre el desempeño deportivo  
 
 ### Variables 
-- **id:** Identificador único del jugador.
+- **id:** Código de estudiante del jugador.
 - **Nombre:** Nombre completo del jugador.
 - **Posición:** Posición en la que se desempeña el jugador.
 - **Fecha:** Fecha de registro.
@@ -72,9 +72,9 @@ El proyecto utiliza una serie de datos que representan el rendimiento de los jug
 
 | id | Nombre | Posición | Fecha | Tipo sesión | Minutos sesión | Goles | Asistencias | Rendimiento (1-10) | Precisión (%) | Nivel de exigencia | Riesgo de lesión | 
 |----|--------|-----------|-------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1 | Juan Pérez | Delantero | 2026-01-10 | Partido | 76 | 2 | 2 | 9.5 | 74 | Alta | Alta | 
-| 2 | Andrés Gómez | Portero | 2026-03-14 | Entrenamiento | 54 | 3 | 1 | 6.6 | 56 | Media | Bajo | 
-| 3 | Mateo Torres | Mediocampo | 2026-03-04 | Partido | 90 | 0 | 3 | 8.8 | 78 | Media | Alta | 
-| 4 | David López | Delantero | 2026-03-12 | Entrenamiento | 83 | 2 | 0 | 7.5 | 80 | Baja | Baja |
-| 5 | Felipe Castro | Mediocampo | 2026-02-24 | Partido | 67 | 1 | 0 | 7.0 | 78 | Baja | Baja |
-| 6 | Carlos Ruiz | Defensa | Dato 1 | 2026-03-12 | 88 | 0 | 0 | 6.4 | 23 | Alta | Alta |
+| 202589897 | Juan Pérez | Delantero | 2026-01-10 | Partido | 76 | 2 | 2 | 9.5 | 74 | Alta | Alta | 
+| 202378547 | Andrés Gómez | Portero | 2026-03-14 | Entrenamiento | 54 | 3 | 1 | 6.6 | 56 | Media | Bajo | 
+| 202606750 | Mateo Torres | Mediocampo | 2026-03-04 | Partido | 90 | 0 | 3 | 8.8 | 78 | Media | Alta | 
+| 202588791 | David López | Delantero | 2026-03-12 | Entrenamiento | 83 | 2 | 0 | 7.5 | 80 | Baja | Baja |
+| 202568214 | Felipe Castro | Mediocampo | 2026-02-24 | Partido | 67 | 1 | 0 | 7.0 | 78 | Baja | Baja |
+| 202467578 | Carlos Ruiz | Defensa | Dato 1 | 2026-03-12 | 88 | 0 | 0 | 6.4 | 23 | Alta | Alta |
