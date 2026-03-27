@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="futbol.jpg" width="500">
+  <img src="futbol.jpg" width="300">
 </p>
 
 <details>
