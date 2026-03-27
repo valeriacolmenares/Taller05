@@ -55,14 +55,18 @@ El proyecto utiliza una serie de datos que representan el rendimiento de los jug
 - Información sobre el desempeño deportivo  
 
 ### Variables 
-- Goles anotados  
-- Asistencias  
-- Minutos jugados  
-- Precisión de pases  
-- Nivel de participación  
-- Rendimiento general
-- Frecuencia de entrenamiento
-- Carga de entrenamiento
+- **id:** Identificador único del jugador.
+- **Nombre:** Nombre completo del jugador.
+- **Posición:** Posición en la que se desempeña el jugador.
+- **Fecha:** Fecha de registro.
+- **Tipo sesión:** Entrenamiento o partido. 
+- **Minutos sesión:** Minutos de juego del jugador en la sesión, de 1 a 90.
+- **Goles:** Número de goles del jugador en la sesión.
+- **Asistencias:** Número de asistencias del jugador en la sesión.
+- **Rendimiento (1-10):** Calificación dada por el entrenador al final de la sesión en una escala de 1-10 decimal.
+- **Precisión:** Promedio del porcentaje de precisión de pases y disparos. 
+- **Nivel de exigencia:** Dado por el director médico.  (Alto, medio, bajo). 
+- **Riesgo de lesión:** Índice dado por el centro médico de la Universidad (Alto, medio, bajo). 
 
 ## Ejemplo de base de datos
 
