@@ -32,7 +32,7 @@ Este proyecto tiene como finalidad **analizar el rendimiento deportivo** de la s
 
 A partir de datos de partidos y entrenamientos, se busca evaluar el rendimiento de los jugadores tomando en cuenta distintos factores como los resultados, la carga física y la participación en el juego. Además, el análisis permite identificar distintas situaciones como sobreentrenamiento, riesgo de lesiones o bajo rendimiento.
 
-A traves de este proyecto, se garantizará demostrar como el uso de datos es útil para mejorar el rendimiento deportivo del equipo.
+A través de este proyecto, se garantizará demostrar cómo el uso de datos es útil para mejorar el rendimiento deportivo del equipo.
 
 ---
 
@@ -43,14 +43,33 @@ A traves de este proyecto, se garantizará demostrar como el uso de datos es út
 - Evaluar casos de bajo rendimiento asociados a poca participación. 
 - Proponer recomendaciones para mejorar el desempeño y prevenir riesgos físicos. 
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-## Datos
+## Metodología
+
+El proyecto se desarrolla en las siguientes etapas:
+
+1. Recolección de datos de partidos y entrenamientos.
+2. Limpieza y transformación de datos (Python/Excel).
+3. Análisis de reconocimiento de la base de datos (EDA).
+4. Construcción de métricas de rendimiento.  
+5. Visualización de resultados en Power BI por medio de dashboards.
+
+## Tecnologías y herramientas utilizadas
+
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/c72fd7b0-f7d8-473d-b818-b865333a6450" alt="icon" width="50" height="50" />
+</div>
+
+## · Datos
 
 El proyecto utiliza una serie de datos que representan el rendimiento de los jugadores en partidos y entrenamientos.
 
 ### Características de los datos
-- Datos de jugadores de la selección de futbol 
+- Datos de jugadores de la selección de fútbol 
 - Registros de entrenamientos y partidos  
 - Información sobre el desempeño deportivo  
 
@@ -77,4 +96,20 @@ El proyecto utiliza una serie de datos que representan el rendimiento de los jug
 | 202606750 | Mateo Torres | Mediocampo | 2026-03-04 | Partido | 90 | 0 | 3 | 8.8 | 78 | Media | Alta | 
 | 202588791 | David López | Delantero | 2026-03-12 | Entrenamiento | 83 | 2 | 0 | 7.5 | 80 | Baja | Baja |
 | 202568214 | Felipe Castro | Mediocampo | 2026-02-24 | Partido | 67 | 1 | 0 | 7.0 | 78 | Baja | Baja |
-| 202467578 | Carlos Ruiz | Defensa | Dato 1 | 2026-03-12 | 88 | 0 | 0 | 6.4 | 23 | Alta | Alta |
+| 202467578 | Carlos Ruiz | Defensa | 2026-03-12 | Partido | 88 | 0 | 0 | 6.4 | 23 | Alta | Alta |
+
+---
+
+## Resultados esperados
+
+- Identificación de jugadores con alto riesgo de lesión. 
+- Relación entre carga física y rendimiento. 
+- Detección de jugadores con baja participación.
+- Insights para mejorar el desempeño del equipo.
+
+## Cómo usar este proyecto
+
+1. Clonar el repositorio.
+2. Abrir los notebooks en Jupyter (o app de preferencia).
+3. Ejecutar el análisis de datos.
+4. Visualizar los dashboards en Power BI.
