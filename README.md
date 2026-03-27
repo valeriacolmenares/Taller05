@@ -2,3 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2990BD&width=435&lines=Ciencia+de+datos+UNIANDES+|+2026" />
 </p>
+<summary><b>Integrantes</b></summary><br>
+- Valeria Colmenares Moreno 
+- Juan Esteban Chaves Lesmes
+- Alejandro OConnor Morales
+- Angelica Parra Araque
