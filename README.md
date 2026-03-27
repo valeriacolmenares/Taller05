@@ -1,5 +1,10 @@
 <h1 align="center">⚽ Análisis del rendimiento deportivo de la selección de fútbol de la Universidad de los Andes</h1>
 <p align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow" />
+  <img src="https://img.shields.io/badge/Proyecto-Ciencia%20de%20Datos-blue" />
+  <img src="https://img.shields.io/badge/Año-2026-green" />
+</p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2990BD&width=435&lines=Ciencia+de+datos+UNIANDES+|+2026" />
 </p>
 <details>
@@ -43,7 +48,7 @@ El proyecto utiliza una serie de datos que representan el rendimiento de los jug
 - Registros de entrenamientos y partidos  
 - Información sobre el desempeño deportivo  
 
-### Variables consideradas
+### Variables 
 - Goles anotados  
 - Asistencias  
 - Minutos jugados  
