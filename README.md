@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2990BD&width=435&lines=Ciencia+de+datos+UNIANDES+|+2026" />
 </p>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1508098682722-e99c43a406b2" width="600">
+![Logo](futbol.jpg)
 </p>
 <details>
   <summary> Integrantes </summary>
